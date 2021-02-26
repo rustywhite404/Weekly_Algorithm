@@ -1,9 +1,7 @@
-package hyein;
-
 public class A002 {
 
 	public static void main(String[] args) {
-		// ¼ıÀÚ 1, 24, 23, 6, 15 Áß¿¡¼­ Â¦¼ö¸¸ Ãâ·ÂÇÏ±â 
+		//ìˆ«ì 1, 24, 23, 6, 15 ì¤‘ì—ì„œ ì§ìˆ˜ë§Œ ì¶œë ¥í•˜ê¸°
 		
 		int[] num = {1, 24, 23, 6, 15};
 		
@@ -12,8 +10,6 @@ public class A002 {
 				System.out.println(num[i]);
 			};
 		}
-		
-		
 	}
 
 }
