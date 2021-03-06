@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class FileOutput06 {
+public class A001 {
     public static void main(String[] args) {
         //여러 줄의 문자열을 입력받아 저장할 수 있는 프로그램
         //계속해서 문자열을 입력받고 입력받은 문자열이 비어 있으면 프로그램을 종료한다.
