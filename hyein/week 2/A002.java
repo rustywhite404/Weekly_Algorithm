@@ -1,5 +1,3 @@
-package part09;
-
 import java.io.*;
 import java.util.Scanner;
 
